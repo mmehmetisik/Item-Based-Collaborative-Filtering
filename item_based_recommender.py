@@ -72,6 +72,10 @@
 # - rating = Kullanıcı tarafından filme verilen puan
 # - timestamp = Değerlendirme tarihi
 
+###################################
+# Yol Haritası
+###################################
+
 # Adım 1: Veri Setinin Hazırlanması
 # Adım 2: User Movie Df'inin Oluşturulması
 # Adım 3: Item-Based Film Önerilerinin Yapılması
